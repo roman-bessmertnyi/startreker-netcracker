@@ -10,7 +10,7 @@ This project implements a system, which allows to order space trips with service
 
 **Technology stack:**
 
-_Back-end:_ Spring Boot, Oracle 11 XE, Spring JDBC, Maven, Lombok
+_Back-end:_ Spring Boot, PostgreSQL, Spring JDBC, Maven, Lombok
 
 _Front-end:_ Angular 2, Bootstrap
 
@@ -23,14 +23,6 @@ _Front-end:_ Angular 2, Bootstrap
 - Litvinova Natalya
 
 - Pokrovskyi Andryi
-
-**Our mentors are:**
-
-- Igor Akimov
-
-- Volodymyr Lovetsky
-
-- Oksana Protsyk
 
 **To start developing this project**
 
