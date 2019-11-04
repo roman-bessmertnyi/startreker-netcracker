@@ -16,25 +16,13 @@ _Front-end:_ Angular 2, Bootstrap
 
 **The project is being developed by:**
 
-- Eugene Lokotariev
-
-- Illia Ditkovsky
-
-- Julia Danilyuk
-
-- Pavel Kravets
-
-- Oleh Demydenko
-
-- Viktor Ivanov
-
-- Aleksey Illin.
-
-- Vasilisa Goloborodko
-
 - Roman Bessmertnyi
 
-- Vadym Zakh
+- Tsytovtseva Ann
+
+- Litvinova Natalya
+
+- Pokrovskyi Andryi
 
 **Our mentors are:**
 
